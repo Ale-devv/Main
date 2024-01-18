@@ -1,0 +1,21 @@
+{
+    "projects": [
+        {
+            "projectType": "Front-end",
+            "projectName": "Portfólio2.0",
+            "projectRepo": "https://github.com/Ale-devv/Portfolio2.0-main",
+            "status": "Em andamento",
+            "projectImage": "https://cdn.discordapp.com/attachments/1154454824784515245/1162357499425468526/image.png?ex=653ba4c7&is=65292fc7&hm=d870fcf7f6368be9eab1cbd58cccc48c8102d1befb0f41df173907e3178bdd0d&",
+            "projectDescription": "Projeto criado para apresentar meus trabalhos e habilidades aos visitantes interessados em conhecer mais sobre mim."
+        },
+        {
+            "projectType": "Front-end",
+            "projectName": "To-do List",
+            "projectRepo": "https://github.com/Ale-devv/Todo-list-Vue.js",
+            "status": "Em andamento",
+            "projectUrl": "h",
+            "projectImage": "https://cdn.discordapp.com/attachments/1154454824784515245/1165975770385092638/image.png?ex=6548ce8e&is=6536598e&hm=91c941d17fbfcde558abe98ea188c3915120e3e36122252bcd6d65bbcc30c83d&",
+            "projectDescription": "Este projeto é uma aplicação web desenvolvida com Vue.js que permite salvar as anotações que ficam salvas localmente"
+        }
+    ]
+}
